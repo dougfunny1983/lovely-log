@@ -1,7 +1,7 @@
 # lovely-log
-Beautiful ways of presenting a print in the terminal
+Beautiful ways of presenting a print in the terminal  FRONTEND
 
-One autumn afternoon, I was introduced by my Trybe course instructor, a way to use descriptive and colorful logs at the terminal. From there I came up with the idea of making a library with his gits, to be able to use in the terminal. That's where Lovely Log was born. Simple, educational and most importantly ... Lindinho!
+One autumn afternoon, I was introduced by my Trybe course instructor, a way to use descriptive and colorful logs at the terminal FRONTEND. From there I came up with the idea of making a library with his gits, to be able to use in the terminal. That's where Lovely Log was born. Simple, educational and most importantly... Lindinho!
 
 How to use?
 Import the library, and use them instead of a 'log' normally.
