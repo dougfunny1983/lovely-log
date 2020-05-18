@@ -30,5 +30,16 @@ warn('Bar, Foo');
 
 Is not it pretty?
 
+You can also use the `makeMessage` function to get a custom logger. For example:
+
+```javascript
+const { makeMessage } = require('lovelylog')
+
+const critical = message => makeMessage(message, 'Critical', '##FF0000')
+critical('Critical error message')
+
+// or, without creating a new function
+makeMessage('Critical error message', 'Critical', '#FF0000')
+```
 
 Credits from my master Rogério Munhoz, better known as Roz!
