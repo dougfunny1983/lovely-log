@@ -9,4 +9,4 @@ const debug = message => makeMessage(message, 'Debug', '#FF9800');
 const error = message => makeMessage(message, 'Error', '#F44336');
 const warn = message => makeMessage(message, 'Warn', '#FFC107');
 
-module.exports = { info, debug, error, warn };
+module.exports = { info, debug, error, warn, makeMessage };
