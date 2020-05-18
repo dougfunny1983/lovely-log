@@ -1,7 +1,7 @@
 {
   "name": "lovelylog",
   "version": "1.1.1",
-  "description": "Beautiful ways of presenting a print in the terminal",
+  "description": "Beautiful ways of presenting a print in the terminal Front End",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
