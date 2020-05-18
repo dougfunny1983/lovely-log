@@ -1,6 +1,6 @@
 {
   "name": "lovelylog",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Beautiful ways of presenting a print in the terminal",
   "main": "src/index.js",
   "scripts": {
@@ -18,7 +18,7 @@
     "logs bonitos",
     "logs descritivos"
   ],
-  "author": "dougfunny <douglaseduardo220483@gmail.com>",
+  "contributors": ["dougfunny <douglaseduardo220483@gmail.com>", "Rogério Munhoz <roz@rjmunhoz.me> (https://about.rjmunhoz.me)"],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/dougfunny1983/lovely-log/issues"
