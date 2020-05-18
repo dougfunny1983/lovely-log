@@ -1,0 +1,27 @@
+{
+  "name": "lovelylog",
+  "version": "1.0.0",
+  "description": "Beautiful ways of presenting a print in the terminal",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dougfunny1983/lovely-log.git"
+  },
+  "keywords": [
+    "lovely",
+    "log",
+    "console.log",
+    "beautiful",
+    "logs bonitos",
+    "logs descritivos"
+  ],
+  "author": "dougfunny <douglaseduardo220483@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dougfunny1983/lovely-log/issues"
+  },
+  "homepage": "https://github.com/dougfunny1983/lovely-log#readme"
+}
